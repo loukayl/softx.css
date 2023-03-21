@@ -4097,7 +4097,7 @@ body #ChannelsPreview::before {
 :root {
   --server-unread-colour: 255, 255, 255;
   --server-hover-colour: 255, 255, 255;
-  --server-selected-colour: var(--accent, 0, 231, 169);
+  --server-selected-colour: var(--accent, 0, 991, 169);
   --server-spacing: 16px;
   --server-glow-intensity: 1;
 }
